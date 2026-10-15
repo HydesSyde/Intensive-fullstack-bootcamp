@@ -72,12 +72,12 @@ Before building applications, you'll learn how computers work, how developers so
 * Finding and learning from technical documentation.
 * Introduction to open-source software.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 TBD
 
 ### Week 2 — HTML and Web Browsers
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 TBD
 
 ### Week 3 — CSS and Responsive Web development
@@ -85,12 +85,12 @@ TBD
 **Topics**
 TBD
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 TBD
 
 ### Week 4 — AI, Portfolio Project
 
-### 🏆 MONTH 1 PROJECT — Technology Explainer
+###  MONTH 1 PROJECT — Technology Explainer
 
 Create a concise, visually engaging personal portfolio
 
@@ -98,7 +98,7 @@ Create a concise, visually engaging personal portfolio
 
 ---
 
-## ⚡ MONTH 2 — JavaScript Programming
+## MONTH 2 — JavaScript Programming
 
 **Weeks 5–8 :**
 
@@ -117,7 +117,7 @@ JavaScript is the foundation of this programme. You'll learn how to solve proble
 * Scope and variable accessibility.
 * Debugging with the browser console.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Complete daily coding drills.
 * Build small calculators and conditional-logic exercises.
@@ -135,7 +135,7 @@ JavaScript is the foundation of this programme. You'll learn how to solve proble
 * ES modules and imports/exports.
 * Processing and transforming data.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Complete data-processing exercises.
 * Build a small application that filters and organises a collection of records.
@@ -152,7 +152,7 @@ JavaScript is the foundation of this programme. You'll learn how to solve proble
 * Browser storage with `localStorage`.
 * Separating application logic from interface updates.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Build a functional to-do application.
 * Build an interactive quiz application.
@@ -171,12 +171,12 @@ JavaScript is the foundation of this programme. You'll learn how to solve proble
 * Classes and introductory object-oriented programming.
 * Introduction to npm and package management.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Build a weather application or movie-search application using a public API.
 * Implement loading indicators and error messages.
 
-### 🏆 MONTH 2 PROJECT — Interactive JavaScript Application
+###  MONTH 2 PROJECT — Interactive JavaScript Application
 
 Build an interactive application that solves a simple problem or consumes data from an external API.
 
@@ -184,7 +184,7 @@ Build an interactive application that solves a simple problem or consumes data f
 
 ---
 
-## 🎨 MONTH 3 — Frontend Development with React
+##  MONTH 3 — Frontend Development with React
 
 **Weeks 9–12 | Turn your JavaScript knowledge into modern web interfaces.**
 
@@ -195,7 +195,7 @@ Learn to build responsive, component-based applications that users can interact 
 **Topics**
 TBD
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Recreate a landing page from a reference design.
 * Ensure the page works on mobile and desktop screens.
@@ -213,7 +213,7 @@ TBD
 * Component composition.
 * Organising frontend code.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Build a component library containing at least five reusable components.
 * Collaborate through Git branches and pull requests.
@@ -231,7 +231,7 @@ TBD
 * Introduction to React Router.
 * Multi-page application structure.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Build a multi-page React application.
 * Implement forms, navigation, and interactive components.
@@ -248,11 +248,11 @@ TBD
 * Debugging React applications.
 * Production builds and deployment.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Build and deploy a frontend application that consumes a public API.
 
-### 🏆 MONTH 3 PROJECT — React Frontend Capstone
+###  MONTH 3 PROJECT — React Frontend Capstone
 
 Build a polished React application with reusable components, navigation, API integration, responsive layouts, and appropriate loading and error states.
 
@@ -260,7 +260,7 @@ Build a polished React application with reusable components, navigation, API int
 
 ---
 
-## ⚙️ MONTH 4 — Backend & Full-Stack Development
+##  MONTH 4 — Backend & Full-Stack Development
 
 **Weeks 13–16 | Build the systems behind the interface.**
 
@@ -281,7 +281,7 @@ Learn how servers process requests, how databases store information, how authent
 * Request parameters, query strings, and JSON bodies.
 * Testing APIs with Postman.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Build a REST API that supports basic CRUD operations using in-memory data.
 
@@ -298,7 +298,7 @@ Learn how servers process requests, how databases store information, how authent
 * Persistent storage.
 * Introduction to MongoDB Atlas if using MERN.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Build a notes API or blog API connected to a real database.
 
@@ -317,7 +317,7 @@ Learn how servers process requests, how databases store information, how authent
 * Connecting React to the backend API.
 * Handling authentication and API errors.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Implement a registration and login flow.
 * Connect the frontend to the backend.
@@ -338,7 +338,7 @@ Learn how servers process requests, how databases store information, how authent
 * Mock technical interviews.
 * Presenting projects and explaining technical decisions.
 
-**🧪 Hands-On Output**
+** Hands-On Output**
 
 * Complete and deploy your full-stack capstone.
 * Document your project.
@@ -363,7 +363,7 @@ Every month concludes with a graded project and a **30-minute code walkthrough**
 
 ---
 
-# 🎯 What You'll Have Built by the End
+# What You'll Have Built by the End
 
 By the end of the 16 weeks, your portfolio should demonstrate progressive development skills.
 
@@ -378,7 +378,7 @@ You should also have experience with Git and GitHub, debugging, API integration,
 
 ---
 
-# 🧰 Recommended Development Tools
+#  Recommended Development Tools
 
 | Tool                                                 | Purpose                        |
 | :--------------------------------------------------- | :----------------------------- |
@@ -397,7 +397,7 @@ You should also have experience with Git and GitHub, debugging, API integration,
 
 ---
 
-# 📚 Learning Resources
+#  Learning Resources
 
 You'll be encouraged to use official documentation, structured tutorials, and practical exercises.
 Resources will be uploaded as time goes by.
@@ -412,7 +412,7 @@ You remain responsible for understanding, testing, and explaining the code you s
 
 ---
 
-# 🌱 Beyond the Bootcamp
+#  Beyond the Bootcamp
 
 Completing this programme is the beginning of your development journey, not the end.
 

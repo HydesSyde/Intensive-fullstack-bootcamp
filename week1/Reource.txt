@@ -1,3 +1,5 @@
 https://hydessyde.github.io/Intensive-fullstack-bootcamp/SYLLABUS.html
 
 https://github.com/HydesSyde/Intensive-fullstack-bootcamp.git
+
+Visual-studio : https://code.visualstudio.com/docs/setup/windows

@@ -3,3 +3,7 @@ https://hydessyde.github.io/Intensive-fullstack-bootcamp/SYLLABUS.html
 https://github.com/HydesSyde/Intensive-fullstack-bootcamp.git
 
 Visual-studio : https://code.visualstudio.com/docs/setup/windows
+
+Learn more on how to use visual studio code 2026 - https://www.youtube.com/watch?v=f8_uF_IDV50
+
+Git- https://git-scm.com/install/windows

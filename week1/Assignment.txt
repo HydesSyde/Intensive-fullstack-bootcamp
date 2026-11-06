@@ -1,1 +1,3 @@
 Contributing to a project-https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
+
+Link to fork/copy - https://github.com/HydesSyde/Intensive-fullstack-bootcamp.git

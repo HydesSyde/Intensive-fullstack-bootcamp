@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Week 3 Assessment (Your name goes here)</title>
+    <!-- font-link....Do not touch this part -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Icon link.... Don not touch this part -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css"
+    />
+    <!-- for icon -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <!-- Internal styling with css. Play with it, but dont break it -->
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        background-color: #f7f5e1;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+      }
+
+      a {
+        text-decoration: none;
+        color: crimson;
+      }
+
+      img {
+        width: 300px;
+        height: 300px;
+        border-radius: 10px;
+        object-fit: cover;
+      }
+
+      h1,
+      h2,
+      h3 {
+        font-family: "DM-Sans", Arial, sans-serif;
+        color: blue;
+      }
+
+      p {
+        font-family: "DM Mono", monospace;
+        font-size: 14px;
+        color: black;
+        line-height: 1.5;
+      }
+     
+      .nav {
+        border-bottom: 1px solid blue;
+        width: 100vw;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+      }
+
+      .main {
+        width: 100%;
+        height: 95vh;
+        display: flex;
+        flex-direction: row;
+      }
+
+      .left-section {
+        width: 40%;
+        height: 100%;
+        padding: 20px;
+        margin-right: 20px;
+        border-right: 1px solid blue;
+        /* text-align: center; */
+        background-image:
+          linear-gradient(to right, #e5e7eb 1px, transparent 1px),
+          linear-gradient(to bottom, #e5e7eb 1px, transparent 1px);
+        background-size: 30px 30px;
+      }
+
+      .right-section {
+        width: 60%;
+        height: 100%;
+        padding: 10px;
+        /* border-bottom: 1px solid blue; */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="nav">
+      <div class="page-name">
+        <h3>
+          <span style="margin-right: 5px">&nbsp; ✳</span>
+          Ayo&apos;s UI
+        </h3>
+      </div>
+      <div class="nav-menu">
+        <i class="fa fa-bars"> </i>
+      </div>
+    </div>
+    <div class="main">
+      <div class="left-section">
+        <!-- Images and headers also goes here -->
+        <!-- button -->
+        <button
+          style="
+            padding: 5px;
+            border-radius: 12px;
+            border: 1.5px solid blue;
+            color: blue;
+          "
+        >
+          Create Living
+        </button>
+        <!-- heading -->
+        <h1 style="font-size: 28px; margin: 5px 0px">
+          The Power of Creativity: <span>Small Ideas, Big Impact</span>
+        </h1>
+
+        <!-- image container -->
+        <div
+          style="
+            width: auto;
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+          "
+        >
+          <img src="/Images/ass-img2.png" alt="creative image" />
+        </div>
+        <!-- text -->
+        <p style="text-align: center; font-size: 15px">
+          Creativity isn&apos;t about art - it&apos;s a way of thinking, a
+          lifestyle, and a tool for a brighter, more inspiring life.
+        </p>
+      </div>
+
+      <div class="right-section">
+        <!-- Text goes here -->
+        <p style="margin: 10px 0px;">
+          In a World that moves fast creativing helps us pause,see
+          possibilities,and bring something new to life. Whether&apos;s fresh
+          ideas,unique solution, or a simpe design, creativity makes, life more
+          meaningfully.
+        </p>
+        <!-- list section -->
+         <div style="display: flex; flex-direction: column; gap: 10px;">
+        <div style="display: flex; gap: 10px; padding: 10px">
+          <div
+            style="
+              background-color: purple;
+              display: flex;
+              justify-content: center;
+              border-radius: 100%;
+              padding: 10px;
+               width: 40px;
+              height: 40px;
+              flex-shrink: 0;
+              align-items: center;
+              color: white;
+              font-size: 17px;
+            "
+          >
+            <i class="fa-regular fa-lightbulb"></i>
+          </div>
+          <div style="flex: 1;">
+            <h3 style="margin-bottom: 3px;">Start Small</h3>
+            <p>
+              You don&apos;t need big idea. A new perspective or a small change
+              can spark something amazing
+            </p>
+          </div>
+        </div>
+        <div style="display: flex; gap: 10px; padding: 10px">
+          <div
+            style="
+              background-color: red;
+              display: flex;
+              justify-content: center;
+              border-radius: 100%;
+              padding: 10px;
+               width: 40px;
+              height: 40px;
+              flex-shrink: 0;
+              align-items: center;
+              color: white;
+              font-size: 17px;
+            "
+          >
+            <i class="fa-solid fa-heart"></i>
+          </div>
+          <div style="flex: 1;">
+            <h3 style="margin-bottom: 3px;">Find Inspiration</h3>
+            <p>Look around you - in nature, people, books, or even music.</p>
+          </div>
+        </div>
+        <div style="display: flex; gap: 10px; padding: 10px">
+          <div
+            style="
+              background-color: blueviolet;
+              display: flex;
+              width: 40px;
+              height: 40px;
+              flex-shrink: 0;
+              align-items: center;
+              justify-content: center;
+              border-radius: 100%;
+              padding: 10px;
+              color: white;
+              font-size: 17px;
+            "
+          >
+            <i class="fa-solid fa-bolt-lightning"></i>
+          </div>
+          <div style="flex: 1;">
+            <h3 style="margin-bottom: 3px;">Take Actions</h3>
+            <p>Turns your ideas into plans and plans into reality.</p>
+          </div>
+        </div>
+        </div>
+        <!-- continuation -->
+        <div
+          style="
+            background-color: #aca4a4;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 6px solid purple;
+            margin: 15px 0px;
+            width: 400px;
+          "
+        >
+          <h3>"Creativity is intelligence having fun"</h3>
+          <span style="color: blue; margin-left :20px;">- Albert Einstein</span>
+        </div>
+        <h3 style="margin-top: 25px;">What&apos;s Next</h3>
+        <p style="font-size: 15px; margin-top: 3px;">
+          Start your day with something new. Explore your interests, <br />
+          and let your creativity lead the way. You never know what <br />
+          you might achieve.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

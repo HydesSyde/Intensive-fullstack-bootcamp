@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>samuel komolafe</title>
+    <!-- font-link....Do not touch this part -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Icon link.... Don not touch this part -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css"
+    />
+    <!-- Internal styling with css. Play with it, but dont break it -->
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        background-color: #f7f5e1;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+      }
+
+      a {
+        text-decoration: none;
+        color: crimson;
+      }
+
+      img {
+        width: 300px;
+        height: 300px;
+        border-radius: 10px;
+        object-fit: cover;
+      }
+
+      h1,
+      h2,
+      h3 {
+        font-family: "DM-Sans", Arial, sans-serif;
+        color: blue;
+      }
+
+      p {
+        font-family: "DM Mono", monospace;
+        font-size: 12px;
+        color: #cad2eb;
+      }
+      .nav {
+        border-bottom: 1px solid blue;
+        width: 100vw;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+      }
+
+      .main {
+        width: 100%;
+        height: 95vh;
+        display: flex;
+        flex-direction: row;
+      }
+
+      .left-section {
+        width: 40%;
+        height: 100%;
+        padding: 20px;
+        margin-right: 10px;
+        border-right: 1px solid blue;
+        text-align: center;
+        background-image:
+          linear-gradient(to right, #e5e7eb 1px, transparent 1px),
+          linear-gradient(to bottom, #e5e7eb 1px, transparent 1px);
+        background-size: 30px 30px;
+      }
+
+      .right-section {
+        width: 60%;
+        height: 100%;
+        padding: 10px;
+        border-bottom: 1px solid blue;
+      }
+    </style>
+  </head>
+  <body style="overflow-y: auto; overflow-x: hidden">
+    <div class="nav">
+      <div class="page-name">
+        <h3><span style="margin-right: 5px">&nbsp; ✳</span>Microsoft Outage</h3>
+      </div>
+      <div class="nav-menu">
+        <i class="fa fa-bars"> </i>
+      </div>
+    </div>
+    <div class="main">
+      <div class="left-section">
+        <img src="images/microsoft.jpg" alt="Microsoft Outage" />
+      </div>
+      <div class="right-section">
+        <p>
+          Microsoft has identified the root causes of the global outage that
+          crippled Outlook, Exchange and a host of other vital office software
+          last week.
+        </p>
+        <br />
+        <p>
+          The office software giant issued an initial report on Monday that
+          identified three factors that led to the 24-hour blackout of its
+          services: a months-old bug, malfunctioning internal connections , and
+          server capacity. Each of these factors may have easily been resolved
+          on their own, but, when taken together, they led to a major outage
+          that was harder to mitigate, Microsoft executives said.
+        </p>
+        <br />
+        <p>
+          The disruption began Thursday with US users reporting interrupted
+          access to their Outlook email accounts. As it continued into the next
+          day, millions of people worldwide said they could not access their
+          email in any capacity as well as other Office 365 services. Jails
+          could not release prisoners, hospitals turned to paper records,
+          schools lost contact with parents, and police departments could not
+          receive crime reports. Microsoft said it had resolved the issue and
+          restored service by Saturday, also issuing an apology. The company did
+          not attribute the blackout to a cybersecurity breach.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
